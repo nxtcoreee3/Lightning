@@ -1,7 +1,7 @@
 # Lightning
 Lightning 🚀
 
-Lightning is a real-time face-tracking and prediction app that starts on Swift for iPad and will be expanded to support more devices and operating systems in the future. It uses Vision and AVFoundation to track facial features, predict head movement, and display an AI-style HUD with dynamic indicators.
+Lightning is a real-time face-tracking and prediction app that starts on Swift for iPad and will be expanded to support more devices and operating systems in the future. It uses Vision and AVFoundation to track facial features, predict head movement, and display an clean HUD with dynamic indicators.
 
 Features
 	•	Live camera feed with green bounding box around detected faces
